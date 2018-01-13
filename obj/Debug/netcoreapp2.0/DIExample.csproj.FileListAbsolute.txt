@@ -1,0 +1,10 @@
+/Users/barisceviz/Documents/NETCore/Samples/DIExample/bin/Debug/netcoreapp2.0/DIExample.deps.json
+/Users/barisceviz/Documents/NETCore/Samples/DIExample/bin/Debug/netcoreapp2.0/DIExample.runtimeconfig.json
+/Users/barisceviz/Documents/NETCore/Samples/DIExample/bin/Debug/netcoreapp2.0/DIExample.runtimeconfig.dev.json
+/Users/barisceviz/Documents/NETCore/Samples/DIExample/bin/Debug/netcoreapp2.0/DIExample.dll
+/Users/barisceviz/Documents/NETCore/Samples/DIExample/bin/Debug/netcoreapp2.0/DIExample.pdb
+/Users/barisceviz/Documents/NETCore/Samples/DIExample/obj/Debug/netcoreapp2.0/DIExample.csproj.CoreCompileInputs.cache
+/Users/barisceviz/Documents/NETCore/Samples/DIExample/obj/Debug/netcoreapp2.0/DIExample.AssemblyInfoInputs.cache
+/Users/barisceviz/Documents/NETCore/Samples/DIExample/obj/Debug/netcoreapp2.0/DIExample.AssemblyInfo.cs
+/Users/barisceviz/Documents/NETCore/Samples/DIExample/obj/Debug/netcoreapp2.0/DIExample.dll
+/Users/barisceviz/Documents/NETCore/Samples/DIExample/obj/Debug/netcoreapp2.0/DIExample.pdb
