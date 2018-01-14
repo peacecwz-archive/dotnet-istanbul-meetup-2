@@ -1,0 +1,11 @@
+c:\users\peacecwz\documents\visual studio 2017\Projects\DIDataExample\DIDataExample.Entities\bin\Debug\netcoreapp2.0\DIDataExample.Entities.deps.json
+c:\users\peacecwz\documents\visual studio 2017\Projects\DIDataExample\DIDataExample.Entities\bin\Debug\netcoreapp2.0\DIDataExample.Entities.dll
+c:\users\peacecwz\documents\visual studio 2017\Projects\DIDataExample\DIDataExample.Entities\bin\Debug\netcoreapp2.0\DIDataExample.Entities.pdb
+c:\users\peacecwz\documents\visual studio 2017\Projects\DIDataExample\DIDataExample.Entities\bin\Debug\netcoreapp2.0\Microsoft.EntityFrameworkCore.dll
+c:\users\peacecwz\documents\visual studio 2017\Projects\DIDataExample\DIDataExample.Entities\bin\Debug\netcoreapp2.0\Microsoft.EntityFrameworkCore.xml
+c:\users\peacecwz\documents\visual studio 2017\Projects\DIDataExample\DIDataExample.Entities\obj\Debug\netcoreapp2.0\DIDataExample.Entities.csprojResolveAssemblyReference.cache
+c:\users\peacecwz\documents\visual studio 2017\Projects\DIDataExample\DIDataExample.Entities\obj\Debug\netcoreapp2.0\DIDataExample.Entities.csproj.CoreCompileInputs.cache
+c:\users\peacecwz\documents\visual studio 2017\Projects\DIDataExample\DIDataExample.Entities\obj\Debug\netcoreapp2.0\DIDataExample.Entities.AssemblyInfoInputs.cache
+c:\users\peacecwz\documents\visual studio 2017\Projects\DIDataExample\DIDataExample.Entities\obj\Debug\netcoreapp2.0\DIDataExample.Entities.AssemblyInfo.cs
+c:\users\peacecwz\documents\visual studio 2017\Projects\DIDataExample\DIDataExample.Entities\obj\Debug\netcoreapp2.0\DIDataExample.Entities.dll
+c:\users\peacecwz\documents\visual studio 2017\Projects\DIDataExample\DIDataExample.Entities\obj\Debug\netcoreapp2.0\DIDataExample.Entities.pdb

@@ -1,0 +1,15 @@
+c:\users\peacecwz\documents\visual studio 2017\Projects\DIDataExample\DIDataExample\bin\Debug\netcoreapp2.0\DIDataExample.deps.json
+c:\users\peacecwz\documents\visual studio 2017\Projects\DIDataExample\DIDataExample\bin\Debug\netcoreapp2.0\DIDataExample.runtimeconfig.json
+c:\users\peacecwz\documents\visual studio 2017\Projects\DIDataExample\DIDataExample\bin\Debug\netcoreapp2.0\DIDataExample.runtimeconfig.dev.json
+c:\users\peacecwz\documents\visual studio 2017\Projects\DIDataExample\DIDataExample\bin\Debug\netcoreapp2.0\DIDataExample.dll
+c:\users\peacecwz\documents\visual studio 2017\Projects\DIDataExample\DIDataExample\bin\Debug\netcoreapp2.0\DIDataExample.pdb
+c:\users\peacecwz\documents\visual studio 2017\Projects\DIDataExample\DIDataExample\bin\Debug\netcoreapp2.0\DIDataExample.Entities.dll
+c:\users\peacecwz\documents\visual studio 2017\Projects\DIDataExample\DIDataExample\bin\Debug\netcoreapp2.0\DIDataExample.Entities.pdb
+c:\users\peacecwz\documents\visual studio 2017\Projects\DIDataExample\DIDataExample\obj\Debug\netcoreapp2.0\DIDataExample.csprojResolveAssemblyReference.cache
+c:\users\peacecwz\documents\visual studio 2017\Projects\DIDataExample\DIDataExample\obj\Debug\netcoreapp2.0\DIDataExample.csproj.CoreCompileInputs.cache
+c:\users\peacecwz\documents\visual studio 2017\Projects\DIDataExample\DIDataExample\obj\Debug\netcoreapp2.0\DIDataExample.AssemblyInfoInputs.cache
+c:\users\peacecwz\documents\visual studio 2017\Projects\DIDataExample\DIDataExample\obj\Debug\netcoreapp2.0\DIDataExample.AssemblyInfo.cs
+c:\users\peacecwz\documents\visual studio 2017\Projects\DIDataExample\DIDataExample\obj\Debug\netcoreapp2.0\DIDataExample.dll
+c:\users\peacecwz\documents\visual studio 2017\Projects\DIDataExample\DIDataExample\obj\Debug\netcoreapp2.0\DIDataExample.pdb
+c:\users\peacecwz\documents\visual studio 2017\Projects\DIDataExample\DIDataExample\bin\Debug\netcoreapp2.0\DIDataExample.Repositories.dll
+c:\users\peacecwz\documents\visual studio 2017\Projects\DIDataExample\DIDataExample\bin\Debug\netcoreapp2.0\DIDataExample.Repositories.pdb
